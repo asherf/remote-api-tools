@@ -1,1 +1,1 @@
-go_package(skip_gofmt=True)
+protobuf_sources(grpc=True)
